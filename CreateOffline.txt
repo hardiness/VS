@@ -1,0 +1,1 @@
+vs_enterprise2019.exe --layout d:\vslayout --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetWeb --add Component.GitHub.VisualStudio --add Microsoft.VisualStudio.Workload.Office --includeOptional --lang zh-CN
